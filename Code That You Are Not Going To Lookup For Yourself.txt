@@ -1,0 +1,10 @@
+// Generate a random number between two numbers  
+public int RandomNumber(int min, int max)  
+{  
+    Random random = new Random();  
+    return random.Next(min, max);  
+}  
+
+// Sets a pic from The Resources to a PictureBox
+pictureBox1.Image = Coin.Properties.Resources.Head;
+
