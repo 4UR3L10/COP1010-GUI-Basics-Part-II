@@ -1,0 +1,9 @@
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe.config
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.pdb
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csprojAssemblyReference.cache
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.Form1.resources
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.Properties.Resources.resources
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csproj.GenerateResource.cache
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.exe
+C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.pdb
