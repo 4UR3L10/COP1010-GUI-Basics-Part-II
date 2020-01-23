@@ -7,3 +7,12 @@ C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\C
 C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csproj.GenerateResource.cache
 C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.exe
 C:\Users\w_ara\Documents\C#\Assignments\Coin\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.pdb
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe.config
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.pdb
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csprojAssemblyReference.cache
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.CoinFlipper.resources
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.Properties.Resources.resources
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csproj.GenerateResource.cache
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.exe
+C:\Users\w_ara\Documents\GitHub\COP1010-GUI-Basics-Part-II\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.pdb

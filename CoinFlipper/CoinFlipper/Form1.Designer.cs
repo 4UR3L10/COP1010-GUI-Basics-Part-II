@@ -67,10 +67,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1223, 544);
+            this.ClientSize = new System.Drawing.Size(1223, 844);
             this.Controls.Add(this.ClearButton);
             this.Controls.Add(this.TossButton);
             this.Controls.Add(this.pictureBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "CoinFlipper";
             this.Text = "CoinFlipper";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
