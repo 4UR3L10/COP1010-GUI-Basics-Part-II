@@ -28,13 +28,15 @@ namespace CoinFlipper
             int value = random.Next(1, 3);
             if (value == 1)
             {
-                MessageBox.Show("HEAD");
+                
                 pictureBox1.Image = global::CoinFlipper.Properties.Resources.Head;
+                MessageBox.Show("HEAD");
             }
             else
             {
-                MessageBox.Show("TAIL");
+                
                 pictureBox1.Image = global::CoinFlipper.Properties.Resources.Tails;
+                MessageBox.Show("TAIL");
             }
         }
 
