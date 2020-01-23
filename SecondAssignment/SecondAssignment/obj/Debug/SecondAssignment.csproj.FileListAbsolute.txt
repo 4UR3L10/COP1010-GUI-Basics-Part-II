@@ -1,0 +1,9 @@
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.csprojAssemblyReference.cache
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.Form1.resources
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.Properties.Resources.resources
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.csproj.GenerateResource.cache
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.exe.config
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.exe
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.pdb
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.exe
+C:\Users\Miguelito\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.pdb
